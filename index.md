@@ -1,5 +1,8 @@
-# This is an `<h1>` header, which is the largest 
-### This is an `<h3>` header, which is the medium
-###### This is an `<h6>` header, which is the smallest
+# Favorite Ghibli movie!
+### My Neighbor Totoro
+###### #japan #ghibli 
 
-Comparing headers
+Cutiee
+
+
+![My Neighbor Totoro](https://github.com/casc-winniem/skills-communicate-using-markdown/assets/140003827/40fb022d-8748-4445-a87f-457ca0de5db4)
